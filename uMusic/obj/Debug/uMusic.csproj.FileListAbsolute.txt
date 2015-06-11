@@ -11,3 +11,17 @@ C:\DNB\Dev\uMusic\uMusic1\uMusic\obj\Debug\uMusic.Upload.resources
 C:\DNB\Dev\uMusic\uMusic1\uMusic\obj\Debug\uMusic.csproj.GenerateResource.Cache
 C:\DNB\Dev\uMusic\uMusic1\uMusic\obj\Debug\uMusic.exe
 C:\DNB\Dev\uMusic\uMusic1\uMusic\obj\Debug\uMusic.pdb
+C:\DNB\Dev\Git\uMusic\uMusic\bin\Debug\uMusic.exe.config
+C:\DNB\Dev\Git\uMusic\uMusic\obj\Debug\uMusic.exe
+C:\DNB\Dev\Git\uMusic\uMusic\obj\Debug\uMusic.pdb
+C:\DNB\Dev\Git\uMusic\uMusic\bin\Debug\uMusic.exe
+C:\DNB\Dev\Git\uMusic\uMusic\bin\Debug\uMusic.pdb
+C:\DNB\Dev\Git\uMusic\uMusic\bin\Debug\DirectShowLib-2005.dll
+C:\DNB\Dev\Git\uMusic\uMusic\bin\Debug\Splicer.dll
+C:\DNB\Dev\Git\uMusic\uMusic\bin\Debug\YouTube.dll
+C:\DNB\Dev\Git\uMusic\uMusic\obj\Debug\uMusic.csprojResolveAssemblyReference.cache
+C:\DNB\Dev\Git\uMusic\uMusic\obj\Debug\uMusic.Main.resources
+C:\DNB\Dev\Git\uMusic\uMusic\obj\Debug\uMusic.Properties.Resources.resources
+C:\DNB\Dev\Git\uMusic\uMusic\obj\Debug\uMusic.RapidShare_Upload.resources
+C:\DNB\Dev\Git\uMusic\uMusic\obj\Debug\uMusic.Upload.resources
+C:\DNB\Dev\Git\uMusic\uMusic\obj\Debug\uMusic.csproj.GenerateResource.Cache
