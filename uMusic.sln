@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uMusic", "..\uMusicWpf\uMusic\uMusic.csproj", "{29D9FA70-2D0F-42E2-8A85-3BE1CC782AA7}"
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uMusic", ".\uMusic.View\uMusic.csproj", "{29D9FA70-2D0F-42E2-8A85-3BE1CC782AA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67ABE846-B75C-49D9-A29B-449C0A2614C8}
 	EndGlobalSection
 EndGlobal
